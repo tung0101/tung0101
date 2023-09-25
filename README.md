@@ -24,21 +24,21 @@ function App() {
   );
 }
 ```
-### Tech Stack
-![NextJS](https://img.shields.io/badge/next.js-a503fc?logo=n&logoColor=white&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/nest.js-a503fc?logo=n&logoColor=white&style=for-the-badge)
-![Expo](https://img.shields.io/badge/expo.js-a503fc?logo=n&logoColor=white&style=for-the-badge)
-### Version Control
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-### Secondary skills
+### Main skill
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=react.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/react.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![ReactJS](https://img.shields.io/badge/react.js-6DA55F?style=for-the-badge&logo=react.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
+### Version Control
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 ### Working with
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
