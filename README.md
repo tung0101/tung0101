@@ -5,35 +5,21 @@
 	<img src="https://avatars.githubusercontent.com/u/95358274?v=4" width = "200" alt="TNT">
 	</a>
 </p>
-<hr>
 <h2 align="center">About me</h2>
 
 ```import React from "react";
 
 function App() {
-  const user = {
-    Name: "Nguyễn Doãn Tùng",
-    Age: "2003",
-    Gender: "Male",
-    Email: "nguyendoantung12345@gmail.com",
-    Address: "Gia Lai, Việt Nam",
-    University: "Trường Cao đẳng FPT Polytechnic",
-    Skills: "HTML5, CSS3, JavaScript, ReactJS, NodeJS",
-  };
-
   return (
     <div>
       <h1>User Information</h1>
-      <p>Name: {user.Name}</p>
-      <p>Age: {user.Age}</p>
-      <p>Gender: {user.Gender}</p>
-      <p>Email: {user.Email}</p>
-      <p>Address: {user.Address}</p>
-      <p>University: {user.University}</p>
-      <p>Skills: {user.Skills}</p>
+      <p>Name: "Nguyễn Doãn Tùng",</p>
+      <p>Age: "2003",</p>
+      <p>Gender: "Male",</p>
+      <p>Email: "nguyendoantung12345@gmail.com",</p>
+      <p>Address: "Gia Lai, Việt Nam",</p>
+      <p>University: "Trường Cao đẳng FPT Polytechnic",</p>
+      <p>Skills: "HTML5, CSS3, JavaScript, ReactJS, NodeJS",</p>
     </div>
   );
 }
-
-export default App;
-```
