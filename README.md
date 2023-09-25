@@ -1,6 +1,10 @@
 # <p align="center" color="red">Nguyễn Doãn Tùng</p>
 <h2 align="center">About me</h2>
-
+<p align="center">
+	<a href="https://github.com/tung0101">
+	<img src="https://avatars.githubusercontent.com/u/95358274?v=4" width = "200" alt="TNT">
+	</a>
+</p>
 ```C#
 namespace NDT
 {
