@@ -1,51 +1,35 @@
-# Nguyễn Doãn Tùng
+<h2> Hey there! I'm Tùng Nguyễn. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif"
+        width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" />
 
-**`Font end Developer`**
-<h2 align="center">About me</h2>
+<h3> 👨🏻‍💻 About Me </h3>
 
-```import React from "react";
+- 🔭 &nbsp; I’m font developer
 
-function App() {
-  return (
-    <div>
-      <h1>User Information</h1>
-      <p>Name: "Nguyễn Doãn Tùng",</p>
-      <p>Age: "2003",</p>
-      <p>Gender: "Male",</p>
-      <p>Email: "nguyendoantung12345@gmail.com",</p>
-      <p>Address: "Gia Lai, Việt Nam",</p>
-      <p>University: "Trường Cao đẳng FPT Polytechnic",</p>
-      <p>Skills: "HTML5, CSS3, JavaScript, ReactJS, NodeJS",</p>
-    </div>
-  );
-}
+<h3>🛠 Tech Stack</h3>
 
-export default App;
-```
-### Frontend
+- 💻 &nbsp; NodeJS | ReactJS | Bootstrap5 | Tailwindcss 
+- 🛢 &nbsp; MongoDB | MySQL | Firebase
+- 🔧 &nbsp; Visual Studio code | Github
+- 🖥 &nbsp; Adobe Photoshop | Adobe XD | Figma
 
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Bootstrap" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="TailwindCSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /><br />
-<br/>
+<br>
 
-### Database
-<img align="left" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br />
-<br/>
+<h3> 🤝🏻 Connect with Me </h3>
 
-### Services
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
-<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br />
-<br/>
-
-### Tools
-
-<img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
-<img align="left" alt="FileZilla" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" /><br />
-<br/>
+<p align="center" style="
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    grid-column-gap: 15px;
+">
+    <a href="https://www.facebook.com/ndt0101/" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png"
+            width="45" />
+    </a>
+    <a href="mailto:nguyendoantung12345@gmail.com" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
+            width="50" />
+    </a>
+</p>
