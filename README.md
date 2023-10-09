@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m font developer
+- 🔭 &nbsp; I’m Frontend Developer
 
 <h3>🛠 Tech Stack</h3>
 
@@ -22,7 +22,7 @@
     justify-content: center;
     align-items: center;
     display: flex;
-    grid-column-gap: 15px;
+    grid-column-gap: 20px;
 ">
     <a href="https://www.facebook.com/ndt0101/" target="_blank" rel="noopener noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png"
