@@ -15,21 +15,4 @@
 
 <br>
 
-<h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center" style="
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    grid-column-gap: 20px;
-">
-    <a href="https://www.facebook.com/ndt0101/" target="_blank" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/800px-Facebook_Logo_%282019%29.png"
-            width="45" />
-    </a>
-    <a href="mailto:nguyendoantung12345@gmail.com" rel="noopener noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
-            width="50" />
-    </a>
-</p>
